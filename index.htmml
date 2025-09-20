@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shoe & Clothing Store</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Fashion Hub</h1>
+    <p>Your one-stop shop for shoes & clothing</p>
+  </header>
+
+  <main>
+    <section class="product">
+      <img src="shoe.jpg" alt="Stylish Shoe">
+      <h2>Classic Sneakers</h2>
+      <p>Comfortable and trendy sneakers for everyday wear.</p>
+      <button>Shop Now</button>
+    </section>
+
+    <section class="product">
+      <img src="clothing.jpg" alt="Trendy Outfit">
+      <h2>Modern Outfit</h2>
+      <p>Stay stylish with our latest clothing collection.</p>
+      <button>Shop Now</button>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Fashion Hub. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
